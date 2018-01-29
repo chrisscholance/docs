@@ -66,7 +66,7 @@ Suppose the following metadata is stored for a user with the email address `jane
 
 ```json
 {
-    "emails": "jane.doe@example.com",
+    "email": "jane.doe@example.com",
     "user_metadata": {
         "hobby": "surfing"
     },
